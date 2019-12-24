@@ -1,0 +1,228 @@
+/* CSS Document */
+@media (max-width:1081px){
+
+	#WELCOMEH1 {
+		font-size: 12px;
+		font-family: verdane;
+        color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+    #GOAL {
+        font-size: 5px;
+        font-family: verdana;
+    color: white;
+    }
+    #PROJECTH2 {
+        font-size: 5px;
+        font-family: verdane;
+        color: white;
+    }
+    #ABOUT {
+        font-size: 5px;
+        font-family: verdane;
+    }
+    #TEXTBTN {
+        font-size: 12.5px;
+        font-family: verdana;
+        color: white;
+    }
+    #DOWNLOAD123 {
+    font-family: verdana;
+    color: black;
+    }
+    #DOWNLOAD3 {
+    font-family: verdana;
+    color: black;
+    }
+    #DOWNLOAD1 {
+    font-family: verdana;
+    color: white;
+    }
+    #POL7 {
+    font-size: 12px;
+    font-family: verdana;
+    color: #c0c0c0;
+    }
+    #WELCOME47 {
+    width: 1407px; 
+    height: 1390px;
+    }
+    #div1 {
+    font-family: verdana;
+    color: steelblue;
+    }
+    #BUTTE45 {
+    padding: 5px;
+    background-color: white;
+    color: steelblue;
+    border: 2px solid steelblue;
+    }
+    #PROJECTH3 {
+    font-size: 15px;
+    font-family: verdana;
+    color: #c0c0c0;
+    }
+    #PROJECTH4 {
+    font-size: 5px;
+    font-family: verdana;
+    color: #c0c0c0;
+    }
+    #RAM1 {
+    border: 3px solid steelblue; 
+    background-color: white; 
+    width: 300px;
+    }
+    #TEXTBTNX {
+    font-size: 18.5px;
+    font-family: verdana;
+    color: steelblue;
+    }
+    #comingx {
+    font-family:verdana ;
+    }
+    #POL40 {
+    font-size: 13px;
+    font-family: verdana;
+    color: black;
+    }
+    .ram {
+    background-color: white;
+    border: 2px solid #555;
+    height: 300px;
+    width: 320px;
+    }
+    }
+    
+    
+    
+}
+#WELCOMEH1 {
+    font-size: 30px;
+    font-family: verdana;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#GOAL {
+    font-size: 15px;
+    font-family: verdana;
+    color: white; 
+}
+#PROJECTH2 {
+    font-size: 15px;
+    font-family: verdana;
+    color: #c0c0c0;
+}
+#ABOUT {
+    font-size: 15px;
+    font-family: verdana;
+}
+#TEXTBTN {
+    font-size: 14.5px;
+    font-family: verdana;
+    color: white;
+}
+#POL4 {
+    font-family: verdana;
+    color: steelblue;
+} 
+#POL40 {
+    font-family: verdana;
+    font-size: 13px;
+    color: black;
+} 
+#POL5 {
+    font-size: 12px;
+    font-family: verdana;
+    color: white;
+}
+#POL6 {
+    font-size: 12px;
+    font-family: verdana;
+    color: red;
+} 
+#POL7 {
+    font-size: 12px;
+    font-family: verdana;
+    color: #c0c0c0;
+}    
+#BUTT1 {
+    color: white;
+    font-family: verdana;
+    background-color: steelblue;
+}
+#BUTT2 {
+    color: white;
+    background-color: gold;
+}
+#DOWNLOAD123 {
+    font-family: verdana;
+    color: black;
+}
+#COPYRIGHT {
+    font-family: verdana;
+    color: #9B999D;
+    font-size: 7px;
+}
+#DOWNLOAD3 {
+    font-family: verdana;
+    color: black;
+}
+#DOWNLOAD1 {
+font-family: verdana;
+color: white;
+}
+#WELCOME47 {
+width: 1407px; 
+height: 1390px;
+}
+#div1 {
+    font-family: verdana;
+    color: steelblue;
+}
+#BUTTE45 {
+padding: 5px;
+background-color: white;
+color: steelblue;
+border: 2px solid steelblue;
+}
+
+#PROJECTH3 {
+    font-size: 20px;
+    font-family: verdana;
+    color: #c0c0c0;
+}
+#PROJECTH4 {
+font-size: 13px;
+font-family: verdana;
+color: #c0c0c0;
+}
+#RAM1 {
+border: 5px solid steelblue; 
+background-color: white; 
+width: 1000px ;
+}
+
+#TEXTBTN222 {
+    font-size: 10.5px;
+    font-family: verdana;
+    color: steelblue;
+}
+#TEXTBTNX {
+    font-size: 40.5px;
+    font-family: verdana;
+    color: steelblue;
+}
+#comingx {
+    font-family:verdana ;
+}
+
+@media(min-width: 1080px){
+   .ram {      
+   background-color: white;
+   border: 2px solid #555;
+   position: relative;
+   height: 300px;
+   width: 600px;
+   }
+}
+
